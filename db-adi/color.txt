@@ -1,7 +1,0 @@
-11370 couleurs navbar
-3034 couleurs boutton
-
-
-
-#fd7e14 orange
-#373b3e gris foncé
